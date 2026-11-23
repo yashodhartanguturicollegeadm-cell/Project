@@ -1,4 +1,7 @@
-#The project goal is basic to make a website where there are main and dupe fragances, and links where people can buy them.
+Title: Dupe fragrances website 
+Description: What this website is going to do is basically match some of your most popular fragrances with some dupes ones that are much cheaper and more affordable.
+Problem: Fragrances cost too much money these days, and for people that just want to smell good, they want cheaper alternatives. However, much research needs to be done in order to basically get a dupe that is close with the orignial.  
+The project goal is basic to make a website where there are main and dupe fragances, and links where people can buy them.
 MVP scope: 
 Get data for which dupes go with each fragrance
 Set up the environments that I will use to make the website basically. This includes the JavaScript data storage and HTML. 
