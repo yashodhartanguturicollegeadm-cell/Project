@@ -27,3 +27,12 @@ const fragances = [
 ];
 const container = document.getElementById("container");
 container.innerHTML = "";
+fragances.forEach(fragrance => {
+  const createNotes = (notesArray) => {
+    return.notesArray.map(note => `
+     <div class = "note-icon-container d-flex flex-column alig-items-center">
+       <img src = "${note.image}" alt="${note.name}" class = "note-img shadow-sm">
+       <span class = "note-label">${note.name}</span>
+     </div>)
+  }
+})
