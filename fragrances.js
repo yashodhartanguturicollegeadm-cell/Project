@@ -43,7 +43,7 @@ fragances.forEach(fragrance => {
         <img src="${fragrance.DupeImage}" class="card-img-top rounded" alt="${fragrance.DupeFragance}" style="height: 220px; object-fit: cover;">
         <div class="card-body px-0">
           <h4 class="card-title fw-bold">${fragrance.DupeFragance}</h4>
-          <p class="text-secondary small mb-3">${fragrance.brand} • Dupe of ${fragrance.Fragance}</p>
+          <p class="text-light small mb-3">${fragrance.brand} • Dupe of ${fragrance.Fragance}</p>
           <!-- Top Notes -->
           <div class="mb-2">
             <span class="text-uppercase text-secondary fw-bold" style="font-size: 0.7rem;">Top Notes</span>
