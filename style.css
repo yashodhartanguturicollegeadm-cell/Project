@@ -1,3 +1,27 @@
+:root {
+  --bg: #0d0d12;
+  --card: #1a1a22;
+  --border: #2a2a35;
+  --accent: #d4a373;
+}
 body {
-  background-color: #f4f6f9 
+  background-color: #0d0d12
+  color: #f1f1f1;
+  font-family: 'Inter', sans-serif;
+}
+.card-title {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  color: var(--accent);
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-family: 'Playfair Display', serif;
+  color: var(--accent);
 }
