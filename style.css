@@ -5,7 +5,7 @@
   --accent: #d4a373;
 }
 body {
-  background-color: #000;
+  background-color: #0d0d12 !important;
   color: #f1f1f1;
   font-family: 'Inter', sans-serif;
 }
@@ -31,4 +31,5 @@ p {
   margin-right: auto;
   color: #c9c9d1;
 }
+
 
