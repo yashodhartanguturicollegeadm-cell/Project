@@ -5,7 +5,7 @@
   --accent: #d4a373;
 }
 body {
-  background-color: #0d0d12
+  background-color: #000;
   color: #f1f1f1;
   font-family: 'Inter', sans-serif;
 }
@@ -25,3 +25,10 @@ h2 {
   font-family: 'Playfair Display', serif;
   color: var(--accent);
 }
+p {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #c9c9d1;
+}
+
