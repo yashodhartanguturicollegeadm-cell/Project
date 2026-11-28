@@ -36,11 +36,12 @@ p {
   background: var(--card); 
   border: 1px solid var(--border);
   text-align: left; 
-  transition: transform .25s, box-shadow .25s ease; 
+  transition: transform .25s, box-shadow .25s ease, border-colo: .25s ease; 
 }
 .card:hover {
   transform: translateY(-8px); 
-  bow-shadow: 0 12px 30px rgba(212, 163, 115, .95);
+  box-shadow: 0 12px 30px rgba(212, 163, 115, .95);
+  border-color: var(--accent);
 }
 
 
