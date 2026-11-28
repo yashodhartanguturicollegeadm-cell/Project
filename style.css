@@ -43,11 +43,3 @@ p {
   box-shadow: 0 12px 30px rgba(212, 163, 115, .95);
   border-color: rgba(212, 163, 115, .6);
 }
-.btn-outline-light:hover,
-.btn-outline-light:focus {
-  background-color: var(--accent);
-  border-color: var(--accent);
-  color: #000;
-}
-
-
