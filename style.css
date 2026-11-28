@@ -40,7 +40,7 @@ p {
 }
 .card:hover {
   transform: translateY(-8px); 
-  bow-shadow: 0 12px 30px rgba(212, 163, 115, .4);
+  bow-shadow: 0 12px 30px rgba(212, 163, 115, .95);
 }
 
 
